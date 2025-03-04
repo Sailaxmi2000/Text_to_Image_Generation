@@ -1,0 +1,11 @@
+streamlit
+torch
+transformers
+diffusers
+accelerate
+sentence-transformers
+faiss-cpu
+ftfy
+bitsandbytes
+
+-e .
