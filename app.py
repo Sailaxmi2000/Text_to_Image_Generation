@@ -16,7 +16,7 @@ from huggingface_hub import InferenceClient
 def get_hf_client():
     return InferenceClient(
         provider="hf-inference",
-        api_key="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"  # Replace with your actual API key
+        api_key="xxxxxxxxxxxxxxxxxxxxx"  # Replace with your actual API key
     )
 
 st.set_page_config(
